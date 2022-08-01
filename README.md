@@ -1,2 +1,2 @@
-# bold
-landing page
+# Bold
+landing page for phishing campaign :fire:
